@@ -1,0 +1,2 @@
+# logo
+LGBTQIA-CN logos.
