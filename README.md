@@ -1,3 +1,5 @@
+简体中文 | [English](README.el.md)
+
 # 图标
 
 当前使用
