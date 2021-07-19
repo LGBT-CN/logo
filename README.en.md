@@ -9,7 +9,7 @@ Currently using
 ## Index
 
 - `v0`: Six-colour rainbow flag
-- `v1`: With the six-colour rainbow flag as the background, the logo with the flag of the People’s Republic of China
+- `v1`: Logo with a six-coloured rainbow flag on a background with the national flag of the People's Republic of China
 - `v2`: The logo with the equal right symbol on the background of the six-colour rainbow flag
 
 ## Copyright
